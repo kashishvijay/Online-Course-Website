@@ -1,0 +1,24 @@
+#testimonials{
+    padding: 80px;
+    text-align: center;
+    background-color: #D7E9F7;
+    color: #000;
+    font-family: Georgia, serif;
+
+}
+
+.testimonials-image {
+   
+    border-radius: 10%;
+   
+
+}
+
+#intro {
+    background-color:#D7E9F7;
+    font-family: Georgia, serif;
+    padding: 100px;
+    
+
+}
+
